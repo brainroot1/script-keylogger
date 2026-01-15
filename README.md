@@ -17,7 +17,7 @@ import threading
 import sys
 
 subprocess.Popen(
-     [r"C:\Users\Micro\Desktop\executavel\dist\exec.exe"],
+     [r"C:\Users\M\Desktop\executavel\dist\ec.exe"],
     stdout=subprocess.DEVNULL,
     stderr=subprocess.DEVNULL,
     creationflags=subprocess.CREATE_NO_WINDOW,
